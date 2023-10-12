@@ -45,7 +45,7 @@ I'm a DevSecOps engineer, committed to enhancing digital security through effect
 
 🕹️ Discord: aliciousness#3906
 
-🔗 website: [cv](richardcraddock.me)
+🔗 website: richardcraddock.me
 
 That's a glimpse into the world of me! 🌟👨‍💻🌊
 
