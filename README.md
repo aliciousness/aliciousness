@@ -31,11 +31,11 @@ I'm a DevSecOps engineer, committed to enhancing digital security through effect
   - Description: Wandering the path of automation to achieve harmonious deployments.
   - Tools Used: Jenkins, Kubernetes
 -->
-## Fun Facts
+## Fun Facts 🎉
 
 - My coding katana is so sharp it can slice through syntax errors.... sometimes 🤷‍♂️
 
-## 📫 Contact
+## Contact 📫
 
 "Feel free to reach out if you want to chat about anime, share knowledge, collaborate on digital endeavors, or for any other reason. Let's work together to enhance security and integrity in our online domain."
 
