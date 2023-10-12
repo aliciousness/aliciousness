@@ -4,17 +4,17 @@
 
 Greetings, fellow code warrior! You've found the README for an IT enthusiast, wielding the way of security with the grace of a samurai. 🗡️🏯
 
-## About Me
+## About Me 🥷
 
 - **Name**: Richard Craddock
 - **Role**: DevSecOps Engineer
 - **Motto**: shift left baby!
 
-## Summary
+## Summary 📖
 
 I'm a DevSecOps engineer, committed to enhancing digital security through effective automation and practices
 
-## Skill Set
+## Skill Set 🥋
 
 - **Security Bushido**: I follow the code of honor in securing systems and networks.
 - **DevOps Dojo**: Mastering the ancient art of automation for seamless deployments.
@@ -33,15 +33,18 @@ I'm a DevSecOps engineer, committed to enhancing digital security through effect
 -->
 ## Fun Facts
 
-- My coding katana is so sharp it can slice through syntax errors.... sometimes
+- My coding katana is so sharp it can slice through syntax errors.... sometimes 🤷‍♂️
 
 ## 📫 Contact
 
 "Feel free to reach out if you want to chat about anime, share knowledge, collaborate on digital endeavors, or for any other reason. Let's work together to enhance security and integrity in our online domain."
 
 📧 Email: [hit me up](craddock9richard@gmail.com)
+
 🌸 LinkedIn: [hire me](https://www.linkedin.com/in/richard-craddock-/)
+
 🕹️ Discord: aliciousness#3906
+
 🔗 website: [cv](richardcraddock.me)
 
 That's a glimpse into the world of me! 🌟👨‍💻🌊
