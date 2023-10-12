@@ -39,7 +39,7 @@ I'm a DevSecOps engineer, committed to enhancing digital security through effect
 
 "Feel free to reach out if you want to chat about anime, share knowledge, collaborate on digital endeavors, or for any other reason. Let's work together to enhance security and integrity in our online domain."
 
-📧 Email: [hit me up](craddock9richard@gmail.com)
+📧 hit me up: craddock9richard@gmail.com
 
 🌸 LinkedIn: [hire me](https://www.linkedin.com/in/richard-craddock-/)
 
