@@ -2,65 +2,55 @@
 
 ## Description
 
-Greetings, fellow code warrior! You've found the README for an IT enthusiast, wielding the way of security with the grace of a samurai. 🗡️🏯
+What's up, code ninja! 
 
-## About Me 🥷
+## About Me 🛠️
 
 - **Name**: Richard Craddock
 - **Role**: DevSecOps Engineer
-- **Motto**: shift left baby!
 
 ## Summary 📖
 
-I'm a DevSecOps engineer, committed to enhancing digital security through effective automation and practices
+I'm a DevSecOps engineer, automating tasks with a flair and always ready to drop a "Step Brothers" quote...
 
-## Skill Set 🥋
-
-- **Security Bushido**: I follow the code of honor in securing systems and networks.
-- **DevOps Dojo**: Mastering the ancient art of automation for seamless deployments.
-- **Code Sensei**: Proficient in various programming languages.
-- **Continuous Disciple**: Always learning and adapting to the ever-changing DevSecOps landscape.
-<!--
-## Projects
-
-- **Project 1: Fortifying the Citadel**
-  - Description: Strengthening the digital fortress to withstand any cyber onslaught.
-  - Tools Used: AWS, Docker, Terraform
-
-- **Project 2: The Deployment Ronin**
-  - Description: Wandering the path of automation to achieve harmonious deployments.
-  - Tools Used: Jenkins, Kubernetes
--->
 ## Fun Facts 🎉
 
-- My coding katana is so sharp it can slice through syntax errors.... sometimes 🤷‍♂️
+- One time I wrestled a giraffe to the ground with my bare hands.. 🥁
+- I’ve been called the songbird of my generation.
+- If you could not tell, Step Brothers is one my favorite movies but I have other movies I'm into as well:
+  - Interstellar
+  - *Anything Marvel*
+  - Inglourious Basterds
+  - Ex Machina
+  - Tenet
+  - more to come 
 
 ## Contact 📫
 
-"Feel free to reach out if you want to chat about anime, share knowledge, collaborate on digital endeavors, or for any other reason. Let's work together to enhance security and integrity in our online domain."
+"Hit me up if you're into discussing the latest in tech, exchanging "Step Brothers" quotes, or just want to chat about anything geeky."
 
-📧 hit me up: craddock9richard@gmail.com
+📧 Email: craddock9richard@gmail.com
 
-🌸 LinkedIn: [hire me](https://www.linkedin.com/in/richard-craddock-/)
+🌸 LinkedIn: [Let's Connect](https://www.linkedin.com/in/richard-craddock-/)
 
 🕹️ Discord: aliciousness#3906
 
-🔗 website: [cv](https://richardcraddock.me/)
+🔗 Website: [Check out my work](https://richardcraddock.me/)
 
-That's a glimpse into the world of me! 🌟👨‍💻🌊
+Boats 'N Hoes! 🛥️💻👨‍💻
 
 
 <!--
 **aliciousness/aliciousness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+You can use these "Step Brothers" inspired ideas to kickstart your GitHub journey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... building bunk beds for more server space.
+- 🌱 I’m currently learning ... how to manage my curly hair like Dale.
+- 👯 I’m looking to collaborate on ... karaoke software.
+- 🤔 I’m looking for help with ... finding the perfect Catalina Wine Mixer outfit.
+- 💬 Ask me about ... my favorite "Step Brothers" scene.
+- 📫 How to reach me: ... just holler, "Did we just become best friends?"
+- 😄 Pronouns: ... He/Him/Boats 'N Hoes
+- ⚡ Fun fact: ... I can play the drums without waking up my sleepwalking stepbrother.
 -->
