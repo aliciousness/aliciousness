@@ -23,11 +23,25 @@ I'm a DevSecOps engineer, automating tasks with a flair and always ready to drop
   - Inglourious Basterds
   - Ex Machina
   - Tenet
-  - more to come 
+  - more to come
+- I also love to watch anime and read Manga here are some of my favorites:
+  - Black Clover
+  - The Seven Deadly Sins
+  - Bleach (Anime Arc 1 only)
+  - DBZ
+  - Trigun
+  - Jujutsu Kaisen
+  - Yu Yu Hakusho 
+  - AOT
+  - Samarui Shamploo
+  - Naruto (Not Boruto)
+  - Inuyasha
+  - Blue Eyed Samaruai (it is an anime, come at me)
+  - give me some more to watch and/or read
 
 ## Contact 📫
 
-"Hit me up if you're into discussing the latest in tech, exchanging "Step Brothers" quotes, or just want to chat about anything geeky."
+"Hit me up if you're into discussing the latest in tech, exchanging "Step Brothers" quotes, or just want to chat about anything nerdy."
 
 📧 Email: craddock9richard@gmail.com
 
