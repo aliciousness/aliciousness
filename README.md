@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup nerd 👋
 
 "Hit me up if you're into discussing the latest in tech, exchanging "Step Brothers" quotes, or just want to chat about anything nerdy."
 
