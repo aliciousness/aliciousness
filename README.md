@@ -10,7 +10,7 @@ Hit me up if you're into discussing music, exchanging "Step Brothers" quotes, or
 
 🔗 Website: [Check out my work](https://richardcraddock.me/)
 
-Boats 'N Hoes! 🛥️💻👨‍💻
+Why are you so sweaty?? 👮‍♂️
 
 
 <!--
